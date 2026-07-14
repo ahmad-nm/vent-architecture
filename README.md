@@ -24,7 +24,7 @@ VENT combines a responsive React frontend with a Laravel backend, providing visi
 
 * Secure authentication system
 * Admin dashboard
-* Project management
+* Architecture Project management
 * Create, update, and delete projects
 * Content management capabilities
 
@@ -74,22 +74,71 @@ The models respond to user scrolling, creating an immersive experience that enha
 
 ## 📸 Screenshots
 
-Screenshots are available in:
+The following screenshots showcase the main user experience and features of the platform.
 
-```text
-docs/screenshots/
-```
+---
 
-Suggested screenshots:
+## 🏠 Home Page
 
-* Home page
-* 3D sections
-* Services page
-* Projects page
-* Project details
-* Contact page
-* Admin dashboard
-* Project management
+The landing page introduces the architecture team through a modern interactive experience.
+
+![Home Page](docs/screenshots/home.webp)
+
+---
+
+## 🎨 Interactive 3D Experience
+
+The homepage includes interactive 3D elements built using React Three Fiber and React Drei.
+
+The 3D model and custom SVG illustrations are positioned throughout the page and respond to user interaction and scrolling.
+
+![3D Section 1](docs/screenshots/3d-model-1.webp)
+
+![3D Section 2](docs/screenshots/3d-model-2.webp)
+
+![SVG Illustration](docs/screenshots/svg-section.webp)
+
+---
+
+## 🏛️ Projects Showcase
+
+Visitors can explore the architecture team's projects through a dedicated projects page.
+
+![Projects Page](docs/screenshots/projects.webp)
+
+---
+
+## 📄 Project Details
+
+Each project has its own details page to present information and visual content.
+
+![Project Details](docs/screenshots/project-details.webp)
+
+---
+
+## 👥 About & Contact
+
+The platform includes dedicated pages to introduce the team and allow visitors to get in touch.
+
+### About Page
+
+![About Page](docs/screenshots/about.webp)
+
+### Contact Page
+
+![Contact Page](docs/screenshots/contact.webp)
+
+---
+
+## ⚙️ Admin Dashboard
+
+Administrators can manage website content through a secure dashboard.
+
+Features include project management and content updates.
+
+![Admin Dashboard](docs/screenshots/admin-dashboard.webp)
+
+![Project Management](docs/screenshots/project-management.webp)
 
 ---
 
