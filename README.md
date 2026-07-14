@@ -92,11 +92,11 @@ The homepage includes interactive 3D elements built using React Three Fiber and 
 
 The 3D model and custom SVG illustrations are positioned throughout the page and respond to user interaction and scrolling.
 
-![3D Section 1](docs/screenshots/3d-model-1.webp)
+![3D Section 1](docs/screenshots/3d-model-1.png)
 
-![3D Section 2](docs/screenshots/3d-model-2.webp)
+![3D Section 2](docs/screenshots/3d-model-2.png)
 
-![SVG Illustration](docs/screenshots/svg-section.webp)
+![SVG Illustration](docs/screenshots/svg-section.png)
 
 ---
 
@@ -136,9 +136,11 @@ Administrators can manage website content through a secure dashboard.
 
 Features include project management and content updates.
 
-![Admin Dashboard](docs/screenshots/admin-dashboard.webp)
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
 
-![Project Management](docs/screenshots/project-management.webp)
+![Project Management 1](docs/screenshots/admin-project-management-1.png)
+
+![Project Management 2](docs/screenshots/admin-project-management-2.png)
 
 ---
 
