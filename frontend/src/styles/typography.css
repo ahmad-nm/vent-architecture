@@ -1,0 +1,15 @@
+.text-hero {
+  font-size: clamp(4rem, 10vw, 10rem);
+  line-height: 0.9;
+  letter-spacing: -0.05em;
+}
+
+.text-section-title {
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1;
+}
+
+.text-body {
+  font-size: 1rem;
+  line-height: 1.7;
+}

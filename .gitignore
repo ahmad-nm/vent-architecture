@@ -1,0 +1,54 @@
+# ===========================
+# Frontend (React + Vite)
+# ===========================
+
+frontend/node_modules/
+frontend/dist/
+
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+
+frontend/.vite/
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+
+# ===========================
+# Backend (Laravel)
+# ===========================
+
+backend/vendor/
+
+backend/node_modules/
+
+backend/.env
+
+backend/public/storage
+
+backend/storage/logs/*
+backend/storage/framework/cache/*
+backend/storage/framework/sessions/*
+backend/storage/framework/views/*
+
+backend/bootstrap/cache/*
+
+backend/.phpunit.result.cache
+
+
+# ===========================
+# General
+# ===========================
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+docs
+docs/*
